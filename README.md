@@ -1,6 +1,9 @@
-## Hi there 👋
-![ikhsan](img/455920354_1715856512488338_1996551994237613415_n.jpg)
-- 🌱 I’m currently learning laravel
+### Hi there 👋
+![bener](img/bener%202.png)
+
+- 🌱 I’m currently learning Laravel
+
+<!--
 **Typoenya/Typoenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
